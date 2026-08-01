@@ -1,0 +1,140 @@
+.titulo {
+    background-color: #f8dfe5;
+    color: #5c4033;
+    text-align: center;
+    padding: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.menu {
+    background-color: #5c4033;
+    text-align: center;
+    padding: 15px;
+}
+
+.menu a {
+    color: #f8dfe5;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.apresentacao {
+    background-color: #fffaf2;
+    color: #5c4033;
+    text-align: center;
+    padding: 30px;
+}
+
+.destaques {
+    background-color: #fffaf2;
+    text-align: center;
+    padding: 30px;
+}
+
+.produto {
+    background-color: #f8dfe5;
+    color: #5c4033;
+    padding: 15px;
+    margin: 15px;
+    width: 200px;
+    display: inline-block;
+}
+
+.produto img {
+    width: 200px;
+    height: 200px;
+}
+
+section {
+    background-color: #fffaf2;
+    text-align: center;
+    padding: 30px;
+}
+
+.produto {
+    background-color: #f8dfe5;
+    color: #5c4033;
+    padding: 15px;
+    margin: 15px;
+    width: 200px;
+    display: inline-block;
+    border: 2px solid #5c4033;
+    vertical-align: top;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif */
+}
+
+.produto img {
+    width: 200px;
+    height: 150px;
+}
+
+h2 {
+    color: #5c4033;
+}
+
+.titulo {
+    background-color: #f8dfe5;
+    color: #5c4033;
+    text-align: center;
+    padding: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.menu {
+    background-color: #5c4033;
+    text-align: center;
+    padding: 15px;
+}
+
+.titulo {
+    background-color: #f8dfe5;
+    color: #5c4033;
+    text-align: center;
+    padding: 30px;
+    border: 2px solid #5c4033;
+}
+
+.menu {
+    background-color: #5c4033;
+    padding: 15px;
+    text-align: center;
+}
+
+.apresentacao {
+    background-color: #fffaf2;
+    color: #5c4033;
+    text-align: center;
+    padding: 30px;
+}
+
+.ambiente {
+    background-color: #f8dfe5;
+    color: #5c4033;
+    width: 200px;
+    display: inline-block;
+    margin: 20px;
+    padding: 20px;
+    border: 2px solid #5c4033;
+    vertical-align: top;
+}
+
+.ambiente img {
+    width: 150px;
+    height: 150px;
+}
+
+.localizacao {
+    background-color: #fffaf2;
+    color: #5c4033;
+    text-align: center;
+    padding: 30px;
+    border-top: 2px solid #5c4033;
+}
+
+footer {
+    background-color: #5c4033;
+    color: #f8dfe5;
+    text-align: center;
+    padding: 15px;
+}
